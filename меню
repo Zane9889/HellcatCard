@@ -1,0 +1,6 @@
+/HellcatCard
+│
+├── index.html (главная страница)
+├── about.html (страница «О нас»)
+├── contacts.html (страница «Контакты»)
+└── style.css (стили для всех страниц)
